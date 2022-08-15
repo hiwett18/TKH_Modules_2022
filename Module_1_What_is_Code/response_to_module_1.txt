@@ -1,0 +1,2 @@
+Code is a set of rules to convert to instructions. 
+
