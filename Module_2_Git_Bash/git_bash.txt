@@ -1,1 +1,12 @@
-This is git bash txt file. 
+What is Git and how is it different than Github?
+Git is a version control system to crete repos to track changes to the files and folders within. 
+GitHub is a platform used to save and store codes, tracks versions in more visual way. 
+
+Why use the terminal?
+To directly interact with the computer in a more efficient manner. 
+
+Explain 3 benefits of version control in your own words: 
+1. Helps manage changes to codebase
+2. Helps to track changes 
+3. Allows collaboration simultaneously
+ 
